@@ -27,6 +27,7 @@ const CrumbWrapper = styled.div`
       color: ${COLORS.gray[300]};
     }
   }
+    
 `;
 
 const CrumbLink = styled.a`
